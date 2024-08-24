@@ -50,8 +50,3 @@ puts sandero.velocidade
 sandero.frear()
 
 puts sandero.velocidade
-
-
-
-
-
